@@ -22,7 +22,7 @@ models:
           - not_null
 
   - name: src_products
-    description: Source table which contains product infomation.
+    description: Source table which contains product infomation/dim3.
     columns:
 
       - name: product_id
